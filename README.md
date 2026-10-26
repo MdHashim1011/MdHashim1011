@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="profile-still.svg">
-  <img src="profile-hero.svg" alt="MdHashim1011 with the selected emblem, animated computer-science data flow, a processor and an electrical waveform.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/MdHashim1011/MdHashim1011/raw/profile-media/profile-still.svg">
+  <img src="https://github.com/MdHashim1011/MdHashim1011/raw/profile-media/profile-hero.svg" alt="MdHashim1011 with the selected emblem, animated computer-science data flow, a processor and an electrical waveform.">
 </picture>
 
 # Hi, I'm MdHashim1011
