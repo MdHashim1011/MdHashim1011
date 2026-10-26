@@ -3,7 +3,7 @@
   <img src="https://github.com/MdHashim1011/MdHashim1011/raw/profile-media/profile-hero.svg" alt="MdHashim1011 with the selected emblem, animated computer-science data flow, a processor and an electrical waveform.">
 </picture>
 
-# Hi, I'm MdHashim1011
+# Hi, I'm MdHashim
 
 I'm a first-year bachelor's student in Electronics and Electrical Engineering at Kaunas University of Technology in Lithuania. I'm interested in creating reusable AI skills, developing products, and turning ideas into practical solutions.
 
