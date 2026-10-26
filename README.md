@@ -1,4 +1,9 @@
-![Stylized portrait of MdHashim1011 beside the selected angular emblem and name in a charcoal and ember terminal frame.](assets/hero-static.png)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png">
+  <img src="assets/hero-entrance.svg" alt="Stylized portrait of MdHashim1011 beside the selected angular emblem and name in a charcoal and ember terminal frame.">
+</picture>
+
+[View still artwork](assets/hero-static.png)
 
 # Hi, I'm MdHashim1011
 
