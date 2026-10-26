@@ -1,9 +1,7 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png">
-  <img src="assets/hero-entrance.svg" alt="Stylized portrait of MdHashim1011 beside the selected angular emblem and name in a charcoal and ember terminal frame.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="profile-still.svg">
+  <img src="profile-hero.svg" alt="MdHashim1011 with the selected emblem, animated computer-science data flow, a processor and an electrical waveform.">
 </picture>
-
-[View still artwork](assets/hero-static.png)
 
 # Hi, I'm MdHashim1011
 
